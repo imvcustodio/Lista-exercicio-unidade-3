@@ -8,6 +8,11 @@ public class exe01 {
      *        comprimentoTerreno = 10
      *        metrosQuadrados = 4*10
      *        metrosQuadrados = 40
+      teste 2:       
+              larguraTerreno = 10
+     *        comprimentoTerreno = 100
+     *        metrosQuadrados = 10*100
+     *        metrosQuadrados = 1000
      */
     public static void main(String[] args) {
        Scanner leitor = new Scanner(System.in);
