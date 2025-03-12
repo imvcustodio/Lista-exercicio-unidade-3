@@ -15,6 +15,11 @@ public class exe13 {
                 Quantos metros tem de comprimento a sua parede: 10
                 Quantos metros tem de altura a sua parede: 3
                 O preço de azuleijos para a quantidade necessaria para sua parece é: R$ 3375,00
+      
+      teste 2: 
+                Quantos metros tem de comprimento a sua parede: 2
+                Quantos metros tem de altura a sua parede: 2,5
+                O preço de azuleijos para a quantidade necessaria para sua parece é: R$ 562,5
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
