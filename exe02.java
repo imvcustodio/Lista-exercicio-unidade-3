@@ -7,6 +7,9 @@ public class exe02 {
      * teste: price = 100
      *        desconto = 100*0.12 = 12
      *        fianlprice = 100 - 12 = 88
+       teste 2: price = 400
+     *        desconto = 400*0.12 = 48
+     *        fianlprice = 400 - 48 = 352
      */
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
