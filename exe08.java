@@ -7,6 +7,10 @@ public class exe08 {
       teste: dols = 2
              real = 2*5.80
              real = 11,60
+
+      teste 2 : dols = 100
+             real = 100*5.80
+             real = 580
      */
       public static void main(String[] args) {//atributo para colocar a classe main q e necessario
         
