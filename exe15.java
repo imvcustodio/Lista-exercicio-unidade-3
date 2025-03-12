@@ -13,7 +13,12 @@ public class exe15 {
      * teste:
         Digite um numero de ate 3 digitos
         234
-        O numero 234, separado em Centenas:2, Dezenas:3 Unidades:4
+        O numero 234, separado em Centenas:2, Dezenas:3, Unidades:4
+
+        teste 2:
+        Digite um numero de ate 3 digitos
+        786
+        O numero 786, separado em Centenas:7, Dezenas:8 Unidades:6
      */
     public static void main(String[] args) throws Exception {
         Scanner leitor = new Scanner(System.in);
@@ -30,7 +35,7 @@ public class exe15 {
 
         int unit = restDezena;// aqui ele so pega o resto que e menor doq 10 ent ele guada nas unidades
 
-        System.out.printf("O numero %d, separado em Centenas:%d, Dezenas:%d Unidades:%d ", num, cent, dezena, unit);
+        System.out.printf("O numero %d, separado em Centenas:%d, Dezenas:%d, Unidades:%d ", num, cent, dezena, unit);
 
         leitor.close();
     }
