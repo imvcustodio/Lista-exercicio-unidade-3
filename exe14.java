@@ -13,6 +13,10 @@ public class exe14 {
                 Quantos KM vc percorreu: 100
                 Quantas horas voce demorou: 2
                 A velocidade media da viajem foi de 50,00 KM/H, e a quantidade de combustivel utilizado foi 8,33 Litros
+      teste 2: 
+                Quantos KM vc percorreu: 500
+                Quantas horas voce demorou: 8
+                A velocidade media da viajem foi de 62,5 KM/H, e a quantidade de combustivel utilizado foi 41,66 Litros
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
