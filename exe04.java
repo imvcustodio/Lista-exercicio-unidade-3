@@ -7,6 +7,10 @@ public class exe04{
         Teste:
         Entrada: 9 6 8
         Saída: 7.90
+        
+        teste 2:
+        entradas: 2 5 10
+        saida:4.50
      */
 
 //Faça um programa para ler três notas de um aluno em uma disciplina e imprimira sua média ponderada (as notas tem pesos respectivos de 5, 3 e 2).
