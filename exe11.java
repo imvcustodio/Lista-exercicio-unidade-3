@@ -8,6 +8,10 @@ public class exe11 {
       teste: celcius = 30
              farenheit = 30*(1.8)+32;
              saida: 86
+      
+      teste 2: celcius = 10
+             farenheit = 10*(1.8)+32;
+             saida: 50
      */
     public static void main(String[] args) throws Exception {
         Scanner leitor = new Scanner(System.in);
