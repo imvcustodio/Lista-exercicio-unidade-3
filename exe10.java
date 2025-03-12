@@ -11,6 +11,11 @@ public class exe10 {
              catetoOposto = 2
              hipotenusa = Math.sqrt(Math.pow(2, 2)+ Math.pow(2, 2));
              saida: 2,83
+
+      teste 2: catetoAdjacente = 4
+             catetoOposto = 4
+             hipotenusa = Math.sqrt(Math.pow(4, 2)+ Math.pow(4, 2));
+             saida: 5,66 
      */
       public static void main(String[] args) {//atributo para colocar a classe main q e necessario
         
