@@ -4,9 +4,14 @@ public class exe07 {
     /*entrada: lata350,  lata600 e garrafa2L
      *Processo: litragemTotal = (lata350*0.350) + (lata600*0.600)+ (garrafa2L*2);
       Saida:litragemTotal
-            teste: lata350 = 1 ,  lata600= 1 e garrafa2L=2
+      
+       teste: lata350 = 1 ,  lata600= 1 e garrafa2L=2
             litragemTotal = (1*0.350) + (1*0.600)+ (2*2);
             litragemTotal = 4,95
+
+       teste 2: lata350 = 20 ,  lata600= 80 e garrafa2L=40
+            litragemTotal = (20*0.350) + (80*0.600)+ (40*2);
+            litragemTotal = 135,00
      */
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
