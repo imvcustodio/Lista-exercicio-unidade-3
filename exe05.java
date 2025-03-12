@@ -7,6 +7,10 @@ public class exe05 {
       teste: frangos = 15
             valorFrangos = 15 * 11
             saida: 165
+            
+      teste 2: frangos = 300
+            valorFrangos = 300 * 11
+            saida: 3300
 
      */
     public static void main(String[] args) {
