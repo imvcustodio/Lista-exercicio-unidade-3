@@ -11,6 +11,11 @@ public class exe09 {
              altura = 2
              volume = 3.1416 * Math.pow(2, 2) * 2;
              saida: 25,13
+             
+      teste: raio = 4
+             altura = 10
+             volume = 3.1416 * Math.pow(4, 2) * 10;
+             saida: 502,66
      */
       public static void main(String[] args) {//atributo para colocar a classe main q e necessario
         
