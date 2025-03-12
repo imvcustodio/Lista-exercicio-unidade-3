@@ -17,9 +17,23 @@ public class exe12 {
       teste: Informe o seu nome: isac
                 Informe a sua carga horaria de trabalho mensais: 100
                 Informe a sua quantidade de dependentes: 2
+                
                 Ola, isac
                 Entao recebera Bruto: R$:1120
                 Porem com descontos de INSS e imposto de renda: R$:968,80
+                E esse foi nosso calculo, Tchau!
+                
+      teste 2: Informe o seu nome: caua
+               Informe a sua carga horaria de trabalho mensais: 80
+               Informe a sua quantidade de dependentes: 3
+                
+                Ola, caua
+                Você trabalhou 80 horas
+                Entao seu salario foi por horas trabalhadas foi: 800
+                Voce possui: 3 dependentes
+                Entao recebera: 180 Para ajudar com seus dependentes
+                Entao recebera Bruto: R$:980
+                Porem com descontos de INSS e imposto de renda: R$:847,70
                 E esse foi nosso calculo, Tchau!
      */
     public static void main(String[] args) {
