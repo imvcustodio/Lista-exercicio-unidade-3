@@ -8,6 +8,11 @@ public class exe06{
              realPeso = 1 - 0.750
              price= 0.250 * 25
              price = 6,25
+             
+      teste 2: kilograms = 2.5
+             realPeso = 2.5 - 0.750
+             price= 1.750 * 25
+             price = 43,75
      */
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
